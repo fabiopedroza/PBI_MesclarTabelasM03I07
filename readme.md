@@ -24,7 +24,7 @@
 
 <h5 align="left"> 👀 Imagens das dicas: </h5>
 
-![Imagem0] (https://github.com/fabiopedroza/PBI_MesclarTabelasM03I07/blob/main/Imagens/TabelasCombinadas.png)
+![Imagem1](https://github.com/fabiopedroza/PBI_MesclarTabelasM03I07/blob/main/Imagens/TabelasCombinadas.png)
 <br />
 <br />
 ![Imagem1](https://github.com/fabiopedroza/PBI_MesclarTabelasM03I07/blob/main/Imagens/DesabilitaCarga.png)
